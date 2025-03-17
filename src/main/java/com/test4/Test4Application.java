@@ -9,6 +9,8 @@ public class Test4Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Test4Application.class, args);
 
+		boolean isSub = false;
+		
 		int s = 70;
 	}
 
